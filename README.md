@@ -1,6 +1,10 @@
 <h1 align="center">
   <br>
+<<<<<<< HEAD
   <a href="https://raw.githubusercontent.com/wajeehanwar/Huffman-Encoding-Text-Compressor"><img src="https://raw.githubusercontent.com/wajeehanwar/Huffman-Encoding-Compressor/master/images/icon.jpeg" alt="Compress Icon" width="300"></a>
+=======
+  <a href="https://raw.githubusercontent.com/wajeehanwar/Huffman-Encoding-Text-Compressor"><img src="https://raw.githubusercontent.com/wajeehanwar/Huffman-Encoding-Compressor/master/images/icon.jpeg" alt="Compress Icon" width="150"></a>
+>>>>>>> 31c21228683fdfb2cc16a4bbb94f1680070773a9
   <br>
   Huffman Encoding Compressor
   <br>
